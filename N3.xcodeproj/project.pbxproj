@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D790887C1BC2D98500EC49C2 /* Arvore.m in Sources */ = {isa = PBXBuildFile; fileRef = D79088701BC2D98500EC49C2 /* Arvore.m */; settings = {ASSET_TAGS = (); }; };
+		D790887D1BC2D98500EC49C2 /* ArvoreFrutifera.m in Sources */ = {isa = PBXBuildFile; fileRef = D79088721BC2D98500EC49C2 /* ArvoreFrutifera.m */; settings = {ASSET_TAGS = (); }; };
+		D790887E1BC2D98500EC49C2 /* Bosque.m in Sources */ = {isa = PBXBuildFile; fileRef = D79088741BC2D98500EC49C2 /* Bosque.m */; settings = {ASSET_TAGS = (); }; };
+		D790887F1BC2D98500EC49C2 /* Fruta.m in Sources */ = {isa = PBXBuildFile; fileRef = D79088761BC2D98500EC49C2 /* Fruta.m */; settings = {ASSET_TAGS = (); }; };
+		D79088801BC2D98500EC49C2 /* Laranjeira.m in Sources */ = {isa = PBXBuildFile; fileRef = D79088781BC2D98500EC49C2 /* Laranjeira.m */; settings = {ASSET_TAGS = (); }; };
+		D79088811BC2D98500EC49C2 /* Limoeiro.m in Sources */ = {isa = PBXBuildFile; fileRef = D790887A1BC2D98500EC49C2 /* Limoeiro.m */; settings = {ASSET_TAGS = (); }; };
+		D79088821BC2D98500EC49C2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D790887B1BC2D98500EC49C2 /* main.m */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D790884F1BC2D90500EC49C2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D79088511BC2D90500EC49C2 /* N3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = N3; sourceTree = BUILT_PRODUCTS_DIR; };
+		D790886F1BC2D98500EC49C2 /* Arvore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Arvore.h; sourceTree = "<group>"; };
+		D79088701BC2D98500EC49C2 /* Arvore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Arvore.m; sourceTree = "<group>"; };
+		D79088711BC2D98500EC49C2 /* ArvoreFrutifera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArvoreFrutifera.h; sourceTree = "<group>"; };
+		D79088721BC2D98500EC49C2 /* ArvoreFrutifera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArvoreFrutifera.m; sourceTree = "<group>"; };
+		D79088731BC2D98500EC49C2 /* Bosque.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bosque.h; sourceTree = "<group>"; };
+		D79088741BC2D98500EC49C2 /* Bosque.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bosque.m; sourceTree = "<group>"; };
+		D79088751BC2D98500EC49C2 /* Fruta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fruta.h; sourceTree = "<group>"; };
+		D79088761BC2D98500EC49C2 /* Fruta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fruta.m; sourceTree = "<group>"; };
+		D79088771BC2D98500EC49C2 /* Laranjeira.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Laranjeira.h; sourceTree = "<group>"; };
+		D79088781BC2D98500EC49C2 /* Laranjeira.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Laranjeira.m; sourceTree = "<group>"; };
+		D79088791BC2D98500EC49C2 /* Limoeiro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Limoeiro.h; sourceTree = "<group>"; };
+		D790887A1BC2D98500EC49C2 /* Limoeiro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Limoeiro.m; sourceTree = "<group>"; };
+		D790887B1BC2D98500EC49C2 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D790884E1BC2D90500EC49C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D79088481BC2D90500EC49C2 = {
+			isa = PBXGroup;
+			children = (
+				D79088531BC2D90500EC49C2 /* N3 */,
+				D79088521BC2D90500EC49C2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D79088521BC2D90500EC49C2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D79088511BC2D90500EC49C2 /* N3 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D79088531BC2D90500EC49C2 /* N3 */ = {
+			isa = PBXGroup;
+			children = (
+				D790886F1BC2D98500EC49C2 /* Arvore.h */,
+				D79088701BC2D98500EC49C2 /* Arvore.m */,
+				D79088711BC2D98500EC49C2 /* ArvoreFrutifera.h */,
+				D79088721BC2D98500EC49C2 /* ArvoreFrutifera.m */,
+				D79088731BC2D98500EC49C2 /* Bosque.h */,
+				D79088741BC2D98500EC49C2 /* Bosque.m */,
+				D79088751BC2D98500EC49C2 /* Fruta.h */,
+				D79088761BC2D98500EC49C2 /* Fruta.m */,
+				D79088771BC2D98500EC49C2 /* Laranjeira.h */,
+				D79088781BC2D98500EC49C2 /* Laranjeira.m */,
+				D79088791BC2D98500EC49C2 /* Limoeiro.h */,
+				D790887A1BC2D98500EC49C2 /* Limoeiro.m */,
+				D790887B1BC2D98500EC49C2 /* main.m */,
+			);
+			path = N3;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D79088501BC2D90500EC49C2 /* N3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D79088581BC2D90500EC49C2 /* Build configuration list for PBXNativeTarget "N3" */;
+			buildPhases = (
+				D790884D1BC2D90500EC49C2 /* Sources */,
+				D790884E1BC2D90500EC49C2 /* Frameworks */,
+				D790884F1BC2D90500EC49C2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = N3;
+			productName = N3;
+			productReference = D79088511BC2D90500EC49C2 /* N3 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D79088491BC2D90500EC49C2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "William Glück";
+				TargetAttributes = {
+					D79088501BC2D90500EC49C2 = {
+						CreatedOnToolsVersion = 7.0;
+					};
+				};
+			};
+			buildConfigurationList = D790884C1BC2D90500EC49C2 /* Build configuration list for PBXProject "N3" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D79088481BC2D90500EC49C2;
+			productRefGroup = D79088521BC2D90500EC49C2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D79088501BC2D90500EC49C2 /* N3 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D790884D1BC2D90500EC49C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D790887F1BC2D98500EC49C2 /* Fruta.m in Sources */,
+				D790887E1BC2D98500EC49C2 /* Bosque.m in Sources */,
+				D79088801BC2D98500EC49C2 /* Laranjeira.m in Sources */,
+				D790887C1BC2D98500EC49C2 /* Arvore.m in Sources */,
+				D790887D1BC2D98500EC49C2 /* ArvoreFrutifera.m in Sources */,
+				D79088821BC2D98500EC49C2 /* main.m in Sources */,
+				D79088811BC2D98500EC49C2 /* Limoeiro.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D79088561BC2D90500EC49C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D79088571BC2D90500EC49C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D79088591BC2D90500EC49C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D790885A1BC2D90500EC49C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D790884C1BC2D90500EC49C2 /* Build configuration list for PBXProject "N3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D79088561BC2D90500EC49C2 /* Debug */,
+				D79088571BC2D90500EC49C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D79088581BC2D90500EC49C2 /* Build configuration list for PBXNativeTarget "N3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D79088591BC2D90500EC49C2 /* Debug */,
+				D790885A1BC2D90500EC49C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D79088491BC2D90500EC49C2 /* Project object */;
+}
