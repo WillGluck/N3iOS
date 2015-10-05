@@ -40,4 +40,8 @@
      @param dia
      */
     -(void)appendAnotacao: (NSString*) novaAnotacao dia:(int) dia;
+    /**
+     @return String das anotações formatadas.
+     */
+    -(NSString*) getAnotacoes;
 @end

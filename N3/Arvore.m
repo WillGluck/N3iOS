@@ -37,4 +37,8 @@
     [anotacoes appendString:[NSString stringWithFormat:stringParaFormatar, dia]];
 }
 
+-(NSString*) getAnotacoes {
+    return anotacoes;
+}
+
 @end

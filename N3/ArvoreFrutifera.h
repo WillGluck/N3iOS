@@ -66,5 +66,9 @@
  @return Flag indicando se a arvore passada é uma árvore frutífera ou subclasse dela.
  */
 -(BOOL) isArvoreFrutifera: (Arvore*) arvore;
+/**
+ @return Quantidade de frutas analisadas dessa árvore.
+ */
+-(NSUInteger) getQuantidadeFrutasAnalisadas;
 
 @end

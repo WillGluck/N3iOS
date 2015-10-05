@@ -56,4 +56,8 @@
     return [arvore isKindOfClass:[ArvoreFrutifera class]];
 }
 
+-(NSUInteger) getQuantidadeFrutasAnalisadas {
+    return [frutasAnalisadas count];
+}
+
 @end

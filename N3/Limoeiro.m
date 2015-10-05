@@ -15,7 +15,7 @@
     if (self) {
         nomeCientifico = @"Citrus limon";
         nomePopular = @"Limoeiro";
-        epocaFrutifera = "Verão\0";
+        epocaFrutifera = "Primavera\0";
     }
     return self;
 }
